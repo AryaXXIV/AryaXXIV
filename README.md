@@ -1,7 +1,7 @@
 ## Hi there 👋
+**AryaXXIV/AryaXXIV** is a ✨ _clone_ ✨ of Arya-f4 who are used to be programmer before.
 
 <!--
-**AryaXXIV/AryaXXIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
